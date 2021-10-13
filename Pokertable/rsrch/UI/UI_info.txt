@@ -1,0 +1,4 @@
+This directory will contain info related to the art and UI of the game. This will include:
+-discussions with artists to make art for the game
+-art design documents
+-basic layout designs for the game

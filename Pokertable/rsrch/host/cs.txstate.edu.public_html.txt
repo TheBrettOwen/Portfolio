@@ -1,0 +1,7 @@
+The web app we are creating can be hosted under one of our indvidual txstate university cs linux
+server accounts under the public_html directory. There must be an entry point html file called
+index.html. All files in public_html must have r permissions in the other group, and all other
+directories need to have r-x permissions in the other group. The site url follows this format
+'cs.txstate.edu/~NETID'. The rules for hosting on your student public_html web page can be found
+at 'https://cs.txstate.edu/resources/labs/accounts/linux/'.
+EX-TEST:'cs.txstate.edu/~dwr48'

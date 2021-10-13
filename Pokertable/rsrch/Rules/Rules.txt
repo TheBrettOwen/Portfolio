@@ -1,0 +1,2 @@
+This file lists the rule set we borrowed from:
+https://bicyclecards.com/how-to-play/texas-holdem-poker/
