@@ -7,3 +7,6 @@ Code from my Computer Vision class in Fall of 2021. Some of the functions my cod
 
 ## Pokertable:
 Pokertable is a Card Game made for my Software Engineering class in Spring of 2021. Me and 3 other classmates worked together using Jira for project management. 
+
+## Operating Systems: 
+This folder contains projects from my operating systems class, implementing multithreading, and simulating both scheduling and page replacement algorithms
